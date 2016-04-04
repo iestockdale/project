@@ -1,4 +1,7 @@
 This is another random text file
+new line
+new line
 really random
 randomer
+Made a change
 Second version (really).
